@@ -1,0 +1,60 @@
+body {
+    font-family: "Cabin", sans-serif;
+    color: black;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    background: black;
+}
+.nav_titulo {
+    font-family:sans-serif;
+    font-size: 18pt;
+}
+.navbar-brand img {
+    height: 2rem;
+  }
+
+.card-title{
+    background: #0dcaf0;
+    text-align: center;
+}
+.card_imagen{
+    font-size: 20pt;
+}
+.card{
+    border: none;
+}
+.card-body{
+    background: black;   
+}
+.card-text{
+    background: black; 
+}
+.tarjetas {
+    background: #0dcaf0;    
+    border: #ccc;
+    border-style: solid;
+
+}
+.text_titulo {
+    font-family: "sans-serif";
+    color: #e0e9eb;
+    font-size: x-large;
+    height: 3rem;
+}
+.text_parrafo {
+    font-family: "sans-serif";
+    color: #e0e9eb;
+    font-size: large;
+    height: 7rem;
+}
+footer {
+    height: 5rem;
+    font-size: large;
+    background: #0dcaf0;
+    border: none;
+}
+footer a i{
+    font-size: 25pt;
+    color: white;
+}
